@@ -138,7 +138,7 @@ void loop() {
 
 # OUTPUT:
 ## Serial Monitor
-<img src="https://github.com/user-attachments/assets/32e17965-051d-41dc-b5b6-4966e0ae89bc" alt="alt text" width="500" height="300" class="center">
+<img src="https://github.com/user-attachments/assets/4c4910b8-31ea-4453-826b-6903136a2949" width="600">
 
 ## Thing Speak
 ![image](https://github.com/user-attachments/assets/b420b5f3-2314-44fb-a469-2bc9ffad3743)
